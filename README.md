@@ -1,2 +1,11 @@
-# hello-world
-我的第一个GitHub仓库，学习使用Git和GitHub
+# hello-world 
+我的第一个GitHub仓库，学习使用Git和GitHub。
+
+## 目标
+- 学习Git基本命令
+- 上传我的第一个HTML文件
+- 了解如何与朋友协作
+- 探索有趣的开源项目
+ 
+## 学习名言
+> 千里之行，始于足下。
